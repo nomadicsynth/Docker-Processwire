@@ -1,7 +1,4 @@
 # Composer file for local enviroment only
-
-version: '3.8'
-
 services:
   backend:
     build:
